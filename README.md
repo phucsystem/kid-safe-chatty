@@ -1,2 +1,2 @@
-# kid-safe-chatty
+# Kid safe chatty game
 Unity version: 2018.3
